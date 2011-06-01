@@ -24,9 +24,9 @@ $(document).ready(function () {
     var $scroll = $('#slider .scroll').css('overflow', 'hidden');
 
     // apply our left + right buttons
-    $scroll
-        .before('<img class="scrollButtons left" src="img/scroll_left.png" />')
-        .after('<img class="scrollButtons right" src="img/scroll_right.png" />');
+    // $scroll
+    //        .before('<img class="scrollButtons left" src="img/scroll_left.png" />')
+    //        .after('<img class="scrollButtons right" src="img/scroll_right.png" />');
 
     // handle nav selection
     function selectNav() {

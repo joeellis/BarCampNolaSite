@@ -181,23 +181,7 @@
 									<p>
 										Below is the list of people who have already signed up, check back later to see what other topics people are preparing.
 									</p>
-									<script type="text/javascript">
-										$(document).ready(function(){
-											
-											$.ajax({
-											  url: "http://www.eventbrite.com/json/event_list_attendees?app_key=Y2NkZDdjNjY0ZWZi&id=1757571945",
-											  success: function(data){
-												alert(data);
-												$('#attendeeList').html(data);
-											  },
-											  error: function(){
-												alert('Failed to request attendee list from eventbrite.');
-											  }
-											});
-											
-										
-										});
-									</script>
+								
 									<div id="attendeeList">
 									</div>
 								</div>

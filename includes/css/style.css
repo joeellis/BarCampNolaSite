@@ -1,0 +1,175 @@
+html { overflow-y: scroll; }
+
+/*
+	#ddc813 trumpet gold
+	#29b9d3 trumpet blue
+	#10599c bluprint blue
+*/
+body { 
+    margin: 10px;
+    padding: 0; 
+	background-color: #10599c;		
+}
+a:visited { background-color:#10599c; }
+
+#container
+{
+	margin: 0 30px;
+	background: #fff;	
+	width: 1000px;
+	border: solid 1px white;
+}
+
+#banner {
+	background-color: #10599c;	
+	padding: 25px 0 25px 0;	
+	text-align: center;	
+	color: #29b9d3;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 4em;
+	font-weight: bold;
+}
+
+#banner p {
+	text-align: center;
+	color: #fff;
+}
+
+#banner a {
+	color: #fff;
+}
+
+#prim_nav
+{
+	float: left;
+	width: 100%;
+	background: #fff;
+	border-bottom: 1px solid #10599c;
+}
+
+#prim_nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+#prim_nav ul li {
+	list-style-type: none;
+	display: inline;
+	height: 90px;
+}
+
+#register {
+	float:right;
+	border: 1px solid white;
+}
+
+#prim_nav li a {
+	display: block;
+	float: left;
+	padding: 5px 10px;
+	color: #10599c;
+	text-decoration: none;
+	border-right: 1px solid #10599c;
+}
+
+#prim_nav li a:hover { background: #29b9d3; }
+
+.main {
+	float: left;
+	width: 760px;
+	padding: 7px;
+	background-color: #fff;	
+}
+
+.right {
+	float: right;
+	width: 200px;
+	background-color: #fff;	
+	padding: 0 25px 0 0;
+}
+
+#content
+{
+	clear: left;
+	padding: 7px 0 0 0;
+}
+
+#content h2
+{
+	color: #000;
+	font-size: 160%;
+	margin: 0 0 .5em;
+}
+
+.article  {
+	border: 1px solid grey;
+	padding: 7px;
+	margin-bottom: 7px;
+}
+
+/* slider */
+#slider {     
+	
+}
+
+.scroll {
+    width: 1000px;
+    overflow: auto;
+    overflow-x: hidden;   	
+}
+
+.scrollContainer div.panel {    
+    width: 1000px;
+}
+
+#shade {    
+    height: 50px;
+}
+
+.scrollButtons {
+    position: absolute;
+    top: 150px;
+    cursor: pointer;
+}
+
+.scrollButtons.left {
+    left: -20px;
+}
+
+.scrollButtons.right {
+    right: -20px;
+}
+
+.hide {
+    display: none;
+}
+
+
+
+/* curl quote no images */
+#quote_placement { width: 500px; }
+
+p, blockquote, q {
+	color: #666666;
+	font-family: Tahoma;
+	font-size: 14px;
+	line-height: 2em;
+	text-align: justify;
+}
+
+blockquote {
+	margin: 2em 0px;
+	padding-left: 40px;
+}
+
+blockquote:before
+{
+	color: #990000;
+	content: '\201C';
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 6em;
+	font-weight: bold;
+	line-height: 0px;
+	margin: 0px 5px 0px -40px;
+	vertical-align: bottom;
+}

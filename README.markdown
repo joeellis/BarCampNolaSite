@@ -51,11 +51,11 @@ If you are new to BarCamp, check out the BarCamp basics links below:
 
 ## Schedule
 
-Friday, July 15th 7pm @ <a href="#" target="_blank">tbd</a> 
+Friday, July 15th 7pm @ tbd
 
 *   7pm - whenever : BarCampNola Icebreaker
 
-Saturday, July 16th @ <a href="http://launchpadnola.com/" target="_blank">LaunchPad</a> 
+Saturday, July 16th @ [Launchpad](http://launchpadnola.com)
 
 *   9:30 - 10:00 : Registration, Coffee and Pastries
 *   10:00 - 11:00 : Introductions, Topic Announcements
@@ -67,7 +67,7 @@ Saturday, July 16th @ <a href="http://launchpadnola.com/" target="_blank">Launch
 Sunday, July 17th @<a href="#" target="_blank">tbd</a> 
 
 *   9:30 - 10:00 : Coffee
-*   10:00 - 5:00 : All Day HackDay (lunch at some point) \---|-- Schedule Right 
+*   10:00 - 5:00 : All Day HackDay (lunch at some point)
 
 > Barcamp is guaranteed to squeeze the sweetest juices out of your mind grapes.   
 > - Joe Ellis 

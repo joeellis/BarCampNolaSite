@@ -2,7 +2,7 @@
 
 ### MiniBar @ Net2NO
 
-Come experience MiniBar at Net2NO. Join us for our third annual award winning MiniBar presentation at this monthÃ­s Net2NO meeting, Tuesday June 7th. What happens at MiniBar you ask? We squeeze the 2 day BarCampNola conference into one action packed hour! The line-up is as follows 
+Come experience MiniBar at Net2NO. Join us for our third annual award winning MiniBar presentation at this month's Net2NO meeting, Tuesday June 7th. What happens at MiniBar you ask? We squeeze the 2 day BarCampNola conference into one action packed hour! The line-up is as follows 
 
 *   Members of LPHI: presenting their new project healthynola.org/, a web-based platform for data/resource democratization in support of civic engagement
 *   Joe Ellis: backbone.js, a new JavaScript library for facilitating mvc on the front-end
@@ -70,7 +70,10 @@ Sunday, July 17th @<a href="#" target="_blank">tbd</a>
 *   10:00 - 5:00Â : All Day HackDay (lunch at some point) \---|-- Schedule Right 
 
 > Barcamp is guaranteed to squeeze the sweetest juices out of your mind grapes.   
-> - Joe Ellis  \---|-- Participate 
+> - Joe Ellis 
+
+## Participate
+
 ## <a href="https://docs.google.com/Doc?tab=edit&dr=true&id=ddrkzz8j_0c259zgf5" target="_blank">Register Now!</a>
 
 BarCampNola is a **free** event, but registering early helps us greatly in organizing the event.  
@@ -83,17 +86,17 @@ To register, click on the link above and add yourself to the open google doc.
 Below is the list of people who have already signed up, check back later to see what other topics people are preparing. 
 
 <div id="attendeeList">
-</div> \---|-- Participate Right 
+</div>
+
 
 > If this is your first time at BarCamp, you HAVE to present. (Ok, you don't really HAVE to, but try to find someone to present with, or at least ask questions and be an interactive participant.)   
 > - <a href="http://barcamp.org/w/page/405173/TheRulesOfBarCamp" target="_blank">The 8th Rule of BarCamp</a>  \---|-- Locations 
+
 ## Locations
 
 BarCampNola will be taking place at LaunchPad.  
 See below for details, directions and tips on parking.  
 
-
-  
   
 # Parking
 
@@ -111,7 +114,7 @@ Option 3: $6 a day parking in the lot at the corner of Magazine and St. Joseph \
 <a href="http://launchpadnola.com" target="_blank"><img src="http://farm3.static.flickr.com/2477/3695313716_9051fcdd5f_m.jpg" alt="LaunchPad" /></a> 
 ## Day Two
 
-tbd \---|-- Sponsors 
+## Sponsors - tbd
 
 ## Become a Sponsor
 
@@ -133,7 +136,7 @@ As a sponsor you will be recognized in the following ways:
 
 ## Sponsors
 
-....  \---|-- Hack Day todo \---|-- Hack Day Right todo \---|-- 2010 
+## Hack Day - TODO
 
 ## BarCampNola 3
 
@@ -145,7 +148,7 @@ July 17th and 18th, 2010 at LaunchPad and IceHouse
 
 * * *
 
-We had over 30 people show up for our day two Ã¬Hack Day.Ã® ThatÃ­s 0 people who started with nothing but a vague concept and the idea to give something back. In just a few hours, we were able to create a project we can all be proud of: <http://closingthenolagap.org/>
+We had over 30 people show up for our day two Ã¬Hack Day.Ã® That's 0 people who started with nothing but a vague concept and the idea to give something back. In just a few hours, we were able to create a project we can all be proud of: <http://closingthenolagap.org/>
 
 ClosingTheNolaGap.org is an online community for the educators working to close the achievement gap in New Orleans public schools. They do this by sharing knowledge and resources andÂ  are committed to providing a college-prep education to every child in New Orleans and will not settle for less.
 
@@ -161,41 +164,41 @@ For a look behind the scenes of our Hack Day check out this brief video:
 
 * * *
 
-[<img class="alignleft" title="BarCampNola" src="barcampnola.org.1_files/4860166013_a1c2de7369_m.jpg" alt="BarCampNola" width="240" height="159" />][2] So, our third year went off without a hitch. In fact, people actually complained that things went too smoothly. Lunch came on time this year, everyone actually had all those annoying adapters to connect their laptops to the projectors, all the presentations started on time and they even built a bar next door this year that opened up early just for us. WeÃ­ve heard your complaintsÃ– next year we will try to make things a bit more chaotic.
+[<img class="alignleft" title="BarCampNola" src="barcampnola.org.1_files/4860166013_a1c2de7369_m.jpg" alt="BarCampNola" width="240" height="159" />][2] So, our third year went off without a hitch. In fact, people actually complained that things went too smoothly. Lunch came on time this year, everyone actually had all those annoying adapters to connect their laptops to the projectors, all the presentations started on time and they even built a bar next door this year that opened up early just for us. We've heard your complaintsÃ– next year we will try to make things a bit more chaotic.
 
 But in the meantime, we want to thank you all for joining us to make this year the successful event it was. We all know <b style="color:black;background-color:#ffff66">BarCampNola</b> is a community driven event, made possible by our <a href="http://barcampnola.org/sponsors/" target="_blank">sponsors</a>, and by YOUR participation. All our returning attendees knew what to expect but many of you came just on faith that there might be one or two of those presentations with that perfect bit of knowledge or inspiration you were looking for.
 
 And for those of you who presented and came to share your ideas, we extend an extra special Thank You!
 
-*   CG Integration and then I blow Stuff Up Ã± Anselm von Seherr
-*   Design Balance Ã± Steven Achord
-*   Design for Humans (how to make more polite software) Ã± Jackson Fox
-*   Digital Media and R&D Tax Credits Ã± David Hymel
-*   Dukky Ã± Murry Dan
-*   Facerize Ã± The End of Awkward Moments (a web-app that makes social flashcards) Ã± Stanford Rosenthal (<a href="http://www.google.com/url?sa=t&source=video&cd=1&ved=0CC4QtwIwAA&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8OaoRh3h7Zo&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNGDJzyfu8mB7COXRTSLzDZ5yA7n1g" target="_blank">part 1</a>, <a href="http://www.google.com/url?sa=t&source=video&cd=4&ved=0CD0QtwIwAw&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcUTiWeBHNck&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNFcfYdjH9pFKAGNjK3kPEqjRdwrbQ" target="_blank">part 2,</a> <a href="http://www.google.com/url?sa=t&source=video&cd=7&ved=0CEwQtwIwBg&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxYPO95aerVE&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNFRETiE0XdoiXD3eQmjOX6WX5wJig" target="_blank">part 3</a>)
-*   Failing at Startups Ã± Bruce Burge
-*   FibbonacciÃ­s Task Estimation aka Story Points Ã± Johnathon Wright
-*   Fiber in NOLA Ã± Barrett Conrad (<a href="http://www.google.com/url?sa=t&source=video&cd=2&ved=0CDMQtwIwAQ&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw50YMpU0_mc&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNEvAsOMVUcdQXKLd9_Hgn2qW-biOQ" target="_blank">part 1</a>, <a href="http://www.google.com/url?sa=t&source=video&cd=6&ved=0CEcQtwIwBQ&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIpJerjYk6OU&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNFfh6u_LdatNTlFs0BjVcbwAmtZ8A" target="_blank">part 2</a>, <a href="http://www.google.com/url?sa=t&source=video&cd=3&ved=0CDgQtwIwAg&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHka4StSQpg8&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNEkMJdkgvkDA5PmLVUo-IrUE4i2ow" target="_blank">part 3</a>)
-*   Fun with Y! Pipes: Building a Twitter Bot without Code!!! Ã± Champ Superstar
-*   How Different Developers Do Things Panel Ã± George Mauer and others
-*   How to Brainstorm for Broadband (without being lame) Ã± Crawford Comeaux
-*   ITunes Scripts Ã± Aaron Lafont
-*   Learning is Social: The Transition to Web 2.0 Ã± Tyler Sax (<a href="http://www.google.com/url?sa=t&source=video&cd=5&ved=0CEIQtwIwBA&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpUSwAVdbKPA&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNGoCj6TV0yIXeh2_VHvaBROxERD6A" target="_blank">part 1</a>,<a href="http://www.google.com/url?sa=t&source=video&cd=8&ved=0CFEQtwIwBw&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db_3Zt8W8yoI&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNGyyKhHcfCKaWgKDkqtuOrcw7emEg" target="_blank"> part2</a>)
-*   Life After Cable TV / Satellite TV : Is it right for you? Ã± Steven Evatt
-*   Malware, Viruses, worms, etc Ã± Candice Quates
+*   CG Integration and then I blow Stuff Up with Anselm von Seherr
+*   Design Balance with Steven Achord
+*   Design for Humans (how to make more polite software) with Jackson Fox
+*   Digital Media and R&D Tax Credits with David Hymel
+*   Dukky with Murry Dan
+*   Facerize with The End of Awkward Moments (a web-app that makes social flashcards) with Stanford Rosenthal (<a href="http://www.google.com/url?sa=t&source=video&cd=1&ved=0CC4QtwIwAA&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8OaoRh3h7Zo&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNGDJzyfu8mB7COXRTSLzDZ5yA7n1g" target="_blank">part 1</a>, <a href="http://www.google.com/url?sa=t&source=video&cd=4&ved=0CD0QtwIwAw&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcUTiWeBHNck&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNFcfYdjH9pFKAGNjK3kPEqjRdwrbQ" target="_blank">part 2,</a> <a href="http://www.google.com/url?sa=t&source=video&cd=7&ved=0CEwQtwIwBg&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxYPO95aerVE&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNFRETiE0XdoiXD3eQmjOX6WX5wJig" target="_blank">part 3</a>)
+*   Failing at Startups with Bruce Burge
+*   Fibbonacci's Task Estimation aka Story Points with Johnathon Wright
+*   Fiber in NOLA with Barrett Conrad (<a href="http://www.google.com/url?sa=t&source=video&cd=2&ved=0CDMQtwIwAQ&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw50YMpU0_mc&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNEvAsOMVUcdQXKLd9_Hgn2qW-biOQ" target="_blank">part 1</a>, <a href="http://www.google.com/url?sa=t&source=video&cd=6&ved=0CEcQtwIwBQ&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIpJerjYk6OU&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNFfh6u_LdatNTlFs0BjVcbwAmtZ8A" target="_blank">part 2</a>, <a href="http://www.google.com/url?sa=t&source=video&cd=3&ved=0CDgQtwIwAg&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHka4StSQpg8&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNEkMJdkgvkDA5PmLVUo-IrUE4i2ow" target="_blank">part 3</a>)
+*   Fun with Y! Pipes: Building a Twitter Bot without Code!!! with Champ Superstar
+*   How Different Developers Do Things Panel with George Mauer and others
+*   How to Brainstorm for Broadband (without being lame) with Crawford Comeaux
+*   ITunes Scripts with Aaron Lafont
+*   Learning is Social: The Transition to Web 2.0 with Tyler Sax (<a href="http://www.google.com/url?sa=t&source=video&cd=5&ved=0CEIQtwIwBA&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpUSwAVdbKPA&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNGoCj6TV0yIXeh2_VHvaBROxERD6A" target="_blank">part 1</a>,<a href="http://www.google.com/url?sa=t&source=video&cd=8&ved=0CFEQtwIwBw&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db_3Zt8W8yoI&ei=SWFcTPW5GsH68AalrNzmAg&usg=AFQjCNGyyKhHcfCKaWgKDkqtuOrcw7emEg" target="_blank"> part2</a>)
+*   Life After Cable TV / Satellite TV : Is it right for you? with Steven Evatt
+*   Malware, Viruses, worms, etc with Candice Quates
 *   Orginization in the Google Era -David Claiborne
-*   PHP: State of the Art Ã± Ralph Schindler
-*   Rethinking a Teachers Job Description : Some Wild Ideas Ã± Jen Schindman and David Orrick
-*   Scaling your Website the Wikipedia Way (cheaply) Ã± Ryan Lane
-*   Six Things Developers are Wrong About Ã± George Mauer
+*   PHP: State of the Art with Ralph Schindler
+*   Rethinking a Teachers Job Description : Some Wild Ideas with Jen Schindman and David Orrick
+*   Scaling your Website the Wikipedia Way (cheaply) with Ryan Lane
+*   Six Things Developers are Wrong About with George Mauer
 *   Social Project Overview w/ Jess Stiver
 *   Strategies to Become a Better Gamer in First Person Shooters presented by Bill Clinton and Shalamar : Chris Boudy
-*   Stupid Facebook Tricks for Orginizations Ã± Denny Juge
-*   The Art of the Ask (for $) Ã± verarocks
-*   The Ruby Show: Rails 3, Bundler & RVM Ã± James Thompson
-*   What do you want in a Health Record Ã± Tung Ly
-*   What to do with a bunch of old cd-rom drives, or what is the funny sculpture in the other room Ã± Mark Anderson
-*   Why Sales DoesnÃ­t have to Suck Ã± Peter Bodenheimer
+*   Stupid Facebook Tricks for Orginizations with Denny Juge
+*   The Art of the Ask (for $) with verarocks
+*   The Ruby Show: Rails 3, Bundler & RVM with James Thompson
+*   What do you want in a Health Record with Tung Ly
+*   What to do with a bunch of old cd-rom drives, or what is the funny sculpture in the other room with Mark Anderson
+*   Why Sales Doesn't have to Suck with Peter Bodenheimer
 
 And in case you missed it, NewOrleansTech.net wrote a great editorial about both days of <b style="color:black;background-color:#ffff66">BarCampNola</b>. You can read the article by going here <a href="http://neworleanstech.net/2010/07/editorial-an-inside-look-at-barcamp-nola-3/" target="_blank">http://neworleanstech.net/2010/07/editorial-an-inside-look-at-barcamp-nola-3/ </a> NewOrleansTech.net also recorded a special edition of the Ã¬#bangitoutshowÃ® prodcast live from the event where you can hear impressions from first attendees as well as others: <a href="http://bit.ly/cHkvca" target="_blank">http://bit.ly/cHkvca</a>
 
@@ -203,7 +206,7 @@ Thank you,
 
 - Matt and Nicky
 
-PS: <a href="http://www.flickr.com/photos/barcampnola" target="_blank">ThankÃ­s for the pics Ray!</a>
+PS: <a href="http://www.flickr.com/photos/barcampnola" target="_blank">Thank's for the pics Ray!</a>
 
 <!-- /Day One --> \---|-- 2010 Right todo \---|-- 2009 
 

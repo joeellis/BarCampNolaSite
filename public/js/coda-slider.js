@@ -25,8 +25,8 @@ $(document).ready(function () {
 
     // apply our left + right buttons
     $scroll
-        .before('<img class="scrollButtons left" src="includes/img/scroll_left.png" />')
-        .after('<img class="scrollButtons right" src="includes/img/scroll_right.png" />');
+        .before('<img class="scrollButtons left" src="/img/scroll_left.png" />')
+        .after('<img class="scrollButtons right" src="/img/scroll_right.png" />');
 
     // handle nav selection
     function selectNav() {

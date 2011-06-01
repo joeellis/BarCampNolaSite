@@ -148,7 +148,7 @@ July 17th and 18th, 2010 at LaunchPad and IceHouse
 
 * * *
 
-So, our third year went off without a hitch. In fact, people actually complained that things went too smoothly. Lunch came on time this year, everyone actually had all those annoying adapters to connect their laptops to the projectors, all the presentations started on time and they even built a bar next door this year that opened up early just for us. We've heard your complaintsÃ– next year we will try to make things a bit more chaotic.
+So, our third year went off without a hitch. In fact, people actually complained that things went too smoothly. Lunch came on time this year, everyone actually had all those annoying adapters to connect their laptops to the projectors, all the presentations started on time and they even built a bar next door this year that opened up early just for us. We've heard your complaints next year we will try to make things a bit more chaotic.
 
 But in the meantime, we want to thank you all for joining us to make this year the successful event it was. We all know <b style="color:black;background-color:#ffff66">BarCampNola</b> is a community driven event, made possible by our [sponsors](http://barcampnola.org/sponsors/), and by YOUR participation. All our returning attendees knew what to expect but many of you came just on faith that there might be one or two of those presentations with that perfect bit of knowledge or inspiration you were looking for.
 

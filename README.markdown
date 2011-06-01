@@ -1,3 +1,5 @@
+## News
+
 ### MiniBar @ Net2NO
 
 Come experience MiniBar at Net2NO. Join us for our third annual award winning MiniBar presentation at this monthÃ­s Net2NO meeting, Tuesday June 7th. What happens at MiniBar you ask? We squeeze the 2 day BarCampNola conference into one action packed hour! The line-up is as follows 
@@ -17,7 +19,7 @@ The dates have just been announced, BarCampNola 4 is taking place on July 16th a
 ### <a href="https://docs.google.com/Doc?tab=edit&dr=true&id=ddrkzz8j_0c259zgf5" target="_blank">Register now!</a>
 
   
-Keep checking back as more presenter's topics are announced as well as the famous hack day project and other details.  \---|-- Announcements Right 
+Keep checking back as more presenter's topics are announced as well as the famous hack day project and other details. 
 
 > The experience of BarCampNola is one that will leave you re-energized whether you're a newbie or a vet. Now a local tradition, BarCamp NOLA showcases the amount of talent and the sense of community that oozes out of the NOLA tech scene.   
 > - NewOrleansTech.Net 
@@ -41,10 +43,12 @@ If you are new to BarCamp, check out the BarCamp basics links below:
 <a href="http://en.wikipedia.org/wiki/BarCamp" target="_blank">What is BarCamp?</a>   
 <a href="http://barcamp.org/w/page/405512/WhatToExpect" target="_blank">What to expect at a BarCamp?</a>   
 <a href="http://barcamp.org/w/page/405173/TheRulesOfBarCamp" target="_blank">The Rules of BarCamp</a>   
- \---|-- What is BarCampNola? Right 
+
+### What is BarCampNola? Right 
 
 > BarCampNola brings talented people together in one location to exchange ideas, build connections, launch shared projects or initiatives, and generally assist in realizing the potential of the tech community here in New Orleans. It is both a showcase of our local talent as well as a mechanism to inspire others.   
-> - Tritico (BarCampNola Co-Organizer)  \---|-- Schedule 
+> - Tritico (BarCampNola Co-Organizer)
+
 ## Schedule
 
 Friday, July 15th 7pm @ <a href="#" target="_blank">tbd</a> 

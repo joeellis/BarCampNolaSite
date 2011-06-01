@@ -281,11 +281,11 @@ Although not a product of this years event, be sure to also check out <a target=
 
 If you have photos, videos, or anything else.. please feel free to add the links here...
 
-<a target="_blank" href="http://www.flickr.com/photos/sybaritemaven/sets/72157621625180509/">Mr Ray Nichols Flickr Set</a>
+<Mr Ray Nichols Flickr Set>
 
-<a href="http://twitpic.com/axb16" target="_blank">http://twitpic.com/axb16</a>
+<http://twitpic.com/axb16>
 
-<a href="http://twitpic.com/ax725" target="_blank">http://twitpic.com/ax725</a>
+<http://twitpic.com/ax725>
 
 <http://www.flickr.com/photos/nolastan/3758818782/>
 

@@ -206,9 +206,7 @@ For a look behind the scenes of our Hack Day check out this brief video:
 
 ## BarCampNola ++
 
-<img src="img/barcampnola_logo_2.png" width="300" alt="barcampnola2" />  
-July 18th and 19th, 2009, at LaunchPad  
-
+July 18th and 19th, 2009, at LaunchPad
 
 ![barcampnola][3]
 

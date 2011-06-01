@@ -67,7 +67,7 @@ Saturday, July 16th @ <a href="http://launchpadnola.com/" target="_blank">Launch
 Sunday, July 17th @<a href="#" target="_blank">tbd</a> 
 
 *   9:30 - 10:00 : Coffee
-*   10:00 - 5:00Â : All Day HackDay (lunch at some point) \---|-- Schedule Right 
+*   10:00 - 5:00 : All Day HackDay (lunch at some point) \---|-- Schedule Right 
 
 > Barcamp is guaranteed to squeeze the sweetest juices out of your mind grapes.   
 > - Joe Ellis 
@@ -134,7 +134,7 @@ As a sponsor you will be recognized in the following ways:
 *   Online presence: website, email, twitter
 *   Shout-out while thanking sponsors at the opening and closing of the event \---|-- Sponsors Right 
 
-## Sponsors
+## Sponsors - TODO
 
 ## Hack Day - TODO
 
@@ -142,23 +142,7 @@ As a sponsor you will be recognized in the following ways:
 
 <img src="img/barcampnola_logo_3.png" width="300" alt="barcampnola3" />  
 July 17th and 18th, 2010 at LaunchPad and IceHouse  
-<!-- Day two -->
 
-### Day Two
-
-* * *
-
-We had over 30 people show up for our day two Ã¬Hack Day.Ã® That's 0 people who started with nothing but a vague concept and the idea to give something back. In just a few hours, we were able to create a project we can all be proud of: <http://closingthenolagap.org/>
-
-ClosingTheNolaGap.org is an online community for the educators working to close the achievement gap in New Orleans public schools. They do this by sharing knowledge and resources andÂ  are committed to providing a college-prep education to every child in New Orleans and will not settle for less.
-
-For a look behind the scenes of our Hack Day check out this brief video:
-
-
-
-<!-- /Day two -->
-
-<!-- Day One -->
 
 ### Day One
 
@@ -208,17 +192,103 @@ Thank you,
 
 PS: <a href="http://www.flickr.com/photos/barcampnola" target="_blank">Thank's for the pics Ray!</a>
 
-<!-- /Day One --> \---|-- 2010 Right todo \---|-- 2009 
+### Day Two
+
+* * *
+
+We had over 30 people show up for our day two Ã¬Hack Day.Ã® That's 0 people who started with nothing but a vague concept and the idea to give something back. In just a few hours, we were able to create a project we can all be proud of: <http://closingthenolagap.org/>
+
+ClosingTheNolaGap.org is an online community for the educators working to close the achievement gap in New Orleans public schools. They do this by sharing knowledge and resources and  are committed to providing a college-prep education to every child in New Orleans and will not settle for less.
+
+For a look behind the scenes of our Hack Day check out this brief video:
+
 
 ## BarCampNola ++
 
 <img src="img/barcampnola_logo_2.png" width="300" alt="barcampnola2" />  
 July 18th and 19th, 2009, at LaunchPad  
-<!-- -->
+
 
 ![barcampnola][3]
 
 Below is a quick wrap-up of the events of the day. Just the facts....
+
+# Day One:
+
+We are 'guestimating' an attendance of <span style="font-size: 11pt; font-family: &quot;Calibri&quot;,&quot;sans-serif&quot;;">approximately</span> 70+ people on day one. The sign-in sheet contains 57 names, and we all know that got overlooked in the excitement that morning. All presentation time-slots for each four of the rooms were quickly filled up, and at any point during the day you could walk into a room filled to capacity. Below, are only a few examples of the high level of presentations. 
+
+#### James Thompson's Ruby Slides
+
+<a target="_blank" href="http://www.slideshare.net/jwthompson2/introducing-ruby">Introducing Ruby</a>
+
+[Ruby Testing][5]
+
+<a target="_blank" href="http://github.com/jwthompson2/barcamp-nola-2009/tree/master">Materials</a> 
+
+#### Chris Boudy Blog Post and Presentation
+
+<a target="_blank" href="http://chrisboudy.com/wp-content/uploads/2009/07/BarCamp-NOLA-2009-The-Importance-Of-The-Mobile-Web.ppt">The Importance of the Mobile Web</a>
+
+<a target="_blank" href="http://chrisboudy.com/2009/07/barcamp-nola-2009-day-1/">Blog Post</a>  
+
+#### Ralph Schindler Slides
+
+<a target="_blank" href="http://www.slideshare.net/ralphschindler/software-engineering-in-php">Software Engineering in PHP</a> 
+
+#### Steven Evatt Slides
+
+<a target="_blank" href="http://www.slideshare.net/sevatt/cloud-computing-for-barcamp-nola">Cloud Computing</a> 
+
+#### Brett Bergeron Presentation Materials
+
+<a target="_blank" href="http://brettbergeron.com/reality/">Augemnted Reality</a> 
+
+#### Andrew Larimer's Masterpiece
+
+<a target="_blank" href="http://www.viddler.com/explore/baldwinm/videos/1/">Animated Gifs</a>
+
+#### George Mauer Blog Post
+
+<a href="http://georgemauer.net/blog/like-300-only-geekier/" target="_blank">Like 300, only Geekier</a> 
+
+#### Chris Schultz Slides
+
+<a href="http://blog.flatsourcing.com/2009/07/21/flatsourcing-process-presentation-from-barcampnola/" target="_blank">Flatsourcing - Making the business process beautiful</a>
+
+# New Groups
+
+In addition to the second day workshop and the presentations on day one, there was a lot of discussion about how to continue the momentum and excitement generated from BarCampNola. The formation of GNOCode was announced and a new user group for ruby was discussed 
+
+#### GNOCode
+
+We will be having the first meeting of GNOCode late August.
+
+Barret Conrad has started our site at <a target="_blank" href="http://www.gnocode.org/">http://www.gnocode.org/</a> and we already have the <a target="_blank" href="http://www.meetup.com/gnocode/">meetup group</a>
+
+We are a group of software and web developers from the Greater New Orleans area with the goal to bring together eager professionals and amateurs to share and learn. Our group welcomes developers from all backgrounds, platforms and fields. 
+
+#### Ruby Bayou
+
+James Thompson is gathering momentum to start a RUBY user group.
+
+All interested programmers should contact James via <a target="_blank" href="http://twitter.com/plainprogrammer">@plainprogrammer</a> or visit the site at <a target="_blank" href="http://rubybayou.com/">http://rubybayou.com/</a> 
+
+#### Hacker Space
+
+Although not a product of this years event, be sure to also check out <a target="_blank" href="http://twitter.com/simondorfman">Simon Dorfman's</a> initiative to create a Hacker Space here in New Orleans with <a target="_blank" href="http://www.gumbolabs.org/">Gumbo Labs.</a>
+
+# PHOTOS:
+
+If you have photos, videos, or anything else.. please feel free to add the links here...
+
+<a target="_blank" href="http://www.flickr.com/photos/sybaritemaven/sets/72157621625180509/">Mr Ray Nichols Flickr Set</a>
+
+<a href="http://twitpic.com/axb16" target="_blank">http://twitpic.com/axb16</a>
+
+<a href="http://twitpic.com/ax725" target="_blank">http://twitpic.com/ax725</a>
+
+<http://www.flickr.com/photos/nolastan/3758818782/>
+
 
 # Day Two:
 
@@ -226,9 +296,9 @@ The day two workshop far exceeded anyone's expectations this year. We have 27 pe
 
 Despite the large number of participants and the deadline of 4:00, we were able to accomplish the goal of creating the website we wanted in only 6 hours.
 
-Everyone who attended can be proud of their efforts in creating a new site to highlight the efforts of all involved in the volunteer effort to make our New Orleans public schools a better place for the students.Â 
+Everyone who attended can be proud of their efforts in creating a new site to highlight the efforts of all involved in the volunteer effort to make our New Orleans public schools a better place for the students. 
 
-### <a href="http://www.nolaschoolvolunteers.org/" target="_blank"><span style="font-size: 150%;">http://www.nolaschoolvolunteers.org/</span></a>Â 
+### <a href="http://www.nolaschoolvolunteers.org/" target="_blank"><span style="font-size: 150%;">http://www.nolaschoolvolunteers.org/</span></a> 
 
 #### Live Blog
 
@@ -254,94 +324,13 @@ I think all of us who participated know it would be impossible to list each of u
 
 ![team][4]
 
-# Day One:
-
-We are 'guestimating' an attendance of <span style="font-size: 11pt; font-family: &quot;Calibri&quot;,&quot;sans-serif&quot;;">approximately</span> 70+ people on day one. The sign-in sheet contains 57 names, and we all know that got overlooked in the excitement that morning. All presentation time-slots for each four of the rooms were quickly filled up, and at any point during the day you could walk into a room filled to capacity. Below, are only a few examples of the high level of presentations.Â 
-
-#### James Thompson's Ruby Slides
-
-<a target="_blank" href="http://www.slideshare.net/jwthompson2/introducing-ruby">Introducing Ruby</a>
-
-[Ruby Testing][5]
-
-<a target="_blank" href="http://github.com/jwthompson2/barcamp-nola-2009/tree/master">Materials</a>Â 
-
-#### Chris Boudy Blog Post and Presentation
-
-<a target="_blank" href="http://chrisboudy.com/wp-content/uploads/2009/07/BarCamp-NOLA-2009-The-Importance-Of-The-Mobile-Web.ppt">The Importance of the Mobile Web</a>
-
-<a target="_blank" href="http://chrisboudy.com/2009/07/barcamp-nola-2009-day-1/">Blog Post</a>Â Â 
-
-#### Ralph Schindler Slides
-
-<a target="_blank" href="http://www.slideshare.net/ralphschindler/software-engineering-in-php">Software Engineering in PHP</a>Â 
-
-#### Steven Evatt Slides
-
-<a target="_blank" href="http://www.slideshare.net/sevatt/cloud-computing-for-barcamp-nola">Cloud Computing</a>Â 
-
-#### Brett Bergeron Presentation Materials
-
-<a target="_blank" href="http://brettbergeron.com/reality/">Augemnted Reality</a>Â 
-
-#### Andrew Larimer's Masterpiece
-
-<a target="_blank" href="http://www.viddler.com/explore/baldwinm/videos/1/">Animated Gifs</a>
-
-#### George Mauer Blog Post
-
-<a href="http://georgemauer.net/blog/like-300-only-geekier/" target="_blank">Like 300, only Geekier</a>Â 
-
-#### Chris Schultz Slides
-
-<a href="http://blog.flatsourcing.com/2009/07/21/flatsourcing-process-presentation-from-barcampnola/" target="_blank">Flatsourcing - Making the business process beautiful</a>
-
-# New Groups
-
-In addition to the second day workshop and the presentations on day one, there was a lot of discussion about how to continue the momentum and excitement generated from BarCampNola. The formation of GNOCode was announced and a new user group for ruby was discussedÂ 
-
-#### GNOCode
-
-We will be having the first meeting of GNOCode late August.
-
-Barret Conrad has started our site at <a target="_blank" href="http://www.gnocode.org/">http://www.gnocode.org/</a> and we already have the <a target="_blank" href="http://www.meetup.com/gnocode/">meetup group</a>
-
-We are a group of software and web developers from the Greater New Orleans area with the goal to bring together eager professionals and amateurs to share and learn. Our group welcomes developers from all backgrounds, platforms and fields.Â 
-
-#### Ruby Bayou
-
-James Thompson is gathering momentum to start a RUBY user group.
-
-All interested programmers should contact James via <a target="_blank" href="http://twitter.com/plainprogrammer">@plainprogrammer</a> or visit the site at <a target="_blank" href="http://rubybayou.com/">http://rubybayou.com/</a>Â 
-
-#### Hacker Space
-
-Although not a product of this years event, be sure to also check out <a target="_blank" href="http://twitter.com/simondorfman">Simon Dorfman's</a> initiative to create a Hacker Space here in New Orleans with <a target="_blank" href="http://www.gumbolabs.org/">Gumbo Labs.</a>
-
-# PHOTOS:
-
-If you have photos, videos, or anything else.. please feel free to add the links here...
-
-<a target="_blank" href="http://www.flickr.com/photos/sybaritemaven/sets/72157621625180509/">Mr Ray Nichols Flickr Set</a>
-
-<a href="http://twitpic.com/axb16" target="_blank">http://twitpic.com/axb16</a>
-
-<a href="http://twitpic.com/ax725" target="_blank">http://twitpic.com/ax725</a>
-
-<http://www.flickr.com/photos/nolastan/3758818782/>
-
-Â 
-
-<!-- --> \---|-- 2009 Right todo \---|-- 2008 
 
 ## BarCampNola
 
-<img src="img/barcampnola_logo_1.jpg" width="300" alt="barcampnola1" />  
 February 16th and 17th, 2008 at Voodoo Ventures  
 The original BarCampNola was held in 2008 and organized by Chris Schultz.
 
 There is no summary of the event available but Chris did put together this video:  
- \---|-- 2008 Right todo
 
  [1]: #sponsors
  [2]: http://www.flickr.com/photos/barcampnola

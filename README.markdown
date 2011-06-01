@@ -141,7 +141,6 @@ As a sponsor you will be recognized in the following ways:
 
 ## BarCampNola 3
 
-<img src="img/barcampnola_logo_3.png" width="300" alt="barcampnola3" />  
 July 17th and 18th, 2010 at LaunchPad and IceHouse  
 
 

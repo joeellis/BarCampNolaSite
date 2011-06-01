@@ -21,7 +21,6 @@
 				<a href="#home">
 					<h2>BarCampNola 4</h2>							
 					<p>									
-						<!-- img src="img/trumpet.png" width="300" alt="barcampnola4"/><br/ -->	
 						July 16th and 17th, 2011 <br/>
 						Keep checking back for details...<br/>									
 					</p>	
@@ -167,9 +166,7 @@
 										- Joe Ellis
 									</blockquote>
 								</div>
-							</div>	
-												
-																		
+							</div>
 								
 							<div class="panel" id="who">
 								
@@ -190,7 +187,11 @@
 											$.ajax({
 											  url: "http://www.eventbrite.com/json/event_list_attendees?app_key=Y2NkZDdjNjY0ZWZi&id=1757571945",
 											  success: function(data){
-												console.log(data);
+												alert(data);
+												$('#attendeeList').html(data);
+											  },
+											  error: function(){
+												alert('Failed to request attendee list from eventbrite.');
 											  }
 											});
 											

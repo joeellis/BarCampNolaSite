@@ -265,7 +265,7 @@ header nav ul li a {
 	width:350px;
 }
 
-#main section.schedule .part .info .date .calendar {
+#main section.schedule .part .info .date {
 	background:#fff;
 	padding:10px 15px;
 	border-radius:10px;
@@ -274,31 +274,30 @@ header nav ul li a {
 	-moz-box-shadow:0px 10px 5px #888;
 	-webkit-box-shadow:0px 2px 5px #888;
 	box-shadow:0px 2px 5px #888;
+	text-align: center;
 }
 
-#main section.schedule .part .info .date .calendar span {
-	display:block;
-	text-align:center;
+#main section.schedule .part .info .date span {
 }
 
-#main section.schedule .part .info .date .calendar span.month,
-#main section.schedule .part .info .date .calendar span.day-name {
+#main section.schedule .part .info .date span.month,
+#main section.schedule .part .info .date span.day-name {
 	font-family:AniversRegular;
 	text-transform:uppercase;
 }
 
-#main section.schedule .part .info .date .calendar span.month {
+#main section.schedule .part .info .date span.month {
 	font-size:25px;	
 	letter-spacing:3px;
 
 }
 
-#main section.schedule .part .info .date .calendar span.day {
+#main section.schedule .part .info .date span.day {
 	font-family:AdelleBasicBold;
-	font-size:68px;	
+	font-size:40px;	
 }
 
-#main section.schedule .part .info .date .calendar span.day-name {
+#main section.schedule .part .info .date span.day-name {
 	font-size:14px;	
 	letter-spacing:2px;
 }

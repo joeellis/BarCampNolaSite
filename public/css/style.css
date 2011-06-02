@@ -125,18 +125,18 @@ header nav ul li a {
 	text-decoration:none;
 }
 
-#main section {
+section {
 	padding:30px 0;
 }
 
-#main section h3 {
+section h3 {
 	font-family:AdelleBasicBoldItalic;
 	font-size:32px;
 	text-align:center;
 	margin-bottom:30px;
 }
 
-#main section h4 {
+section h4 {
 	font-family:"Lucida Grande";
 	font-size:16px;
 	color:#222222;
@@ -361,3 +361,19 @@ footer {
 	background:#fff;
 	border-top:8px solid #EFEFEF;
 }
+
+footer .sponsors ul li {
+	float:left;
+	width:120px;
+	height:90px;
+	padding:0px 20px;
+}
+
+footer h5 a {
+	display:block;
+	text-indent:-9999px;
+}
+
+footer .sponsors ul li.launchpad { background:url(../img/launchpad_logo_footer.png) no-repeat; }
+footer .sponsors ul li.float { background:url(../img/float_logo_footer.png) no-repeat; }
+footer .sponsors ul li.audiosocket { background:url(../img/audiosocket_logo_footer.png) no-repeat; }

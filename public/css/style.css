@@ -349,16 +349,17 @@ footer {
 
 footer .sponsors ul li {
 	float:left;
-	width:120px;
-	height:90px;
-	padding:0px 20px;
+	padding:0px 41px;
 }
 
 footer h5 a {
 	display:block;
+	width:120px;
+	height:90px;
 	text-indent:-9999px;
 }
 
-footer .sponsors ul li.launchpad { background:url(../img/launchpad_logo_footer.png) no-repeat; }
-footer .sponsors ul li.float { background:url(../img/float_logo_footer.png) no-repeat; }
-footer .sponsors ul li.audiosocket { background:url(../img/audiosocket_logo_footer.png) no-repeat; }
+footer .sponsors ul li.launchpad { background:url(../img/launchpad_logo_footer.png) no-repeat center center; }
+footer .sponsors ul li.float { background:url(../img/float_logo_footer.png) no-repeat center center; }
+footer .sponsors ul li.audiosocket { background:url(../img/audiosocket_logo_footer.png) no-repeat center center; }
+footer .sponsors ul li.fourpointoh { background:url(../img/4pt0_logo_footer.png) no-repeat center center; }

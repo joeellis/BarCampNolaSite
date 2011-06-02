@@ -131,7 +131,7 @@ section {
 
 section h3 {
 	font-family:AdelleBasicBoldItalic;
-	font-size:40px;
+	font-size:35px;
 	text-align:center;
 	text-transform:uppercase;
 	margin-bottom:30px;
@@ -384,3 +384,10 @@ section h4 {
 #main section.sponsors ul li.float { background:url(../img/float_logo_footer.png) no-repeat center center; }
 #main section.sponsors ul li.audiosocket { background:url(../img/audiosocket_logo_footer.png) no-repeat center center; }
 #main section.sponsors ul li.fourpointoh { background:url(../img/4pt0_logo_footer.png) no-repeat center center; }
+
+#main section.sponsors p {
+	text-align:center;
+	font-size:12px;
+	font-family:AdelleBasicBoldItalic;
+	margin:20px 0;
+}

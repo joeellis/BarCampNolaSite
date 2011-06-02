@@ -131,7 +131,7 @@ section {
 
 section h3 {
 	font-family:AdelleBasicBoldItalic;
-	font-size:35px;
+	font-size:34px;
 	text-align:center;
 	text-transform:uppercase;
 	margin-bottom:30px;
@@ -279,7 +279,7 @@ section h4 {
 	padding:15px;
 	font-family:AdelleBasicBold;
 	font-style:italic;
-	width:355px;
+	width:352px;
 	text-align:center;
 	font-size:14px;
 	line-height:22px;
@@ -403,7 +403,7 @@ section h4 {
 
 #main section.sponsors h5 a {
 	display:block;
-	width:120px;
+	width:119px;
 	height:90px;
 	text-indent:-9999px;
 }

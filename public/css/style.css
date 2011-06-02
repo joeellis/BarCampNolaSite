@@ -131,8 +131,9 @@ section {
 
 section h3 {
 	font-family:AdelleBasicBoldItalic;
-	font-size:32px;
+	font-size:40px;
 	text-align:center;
+	text-transform:uppercase;
 	margin-bottom:30px;
 }
 
@@ -342,24 +343,24 @@ section h4 {
 	font-family:AdelleBasicBoldItalic; 
 }
 
-footer {
+#main section.sponsors {
 	background:#fff;
 	border-top:8px solid #EFEFEF;
 }
 
-footer .sponsors ul li {
+#main section.sponsors ul li {
 	float:left;
 	padding:0px 41px;
 }
 
-footer h5 a {
+#main section.sponsors h5 a {
 	display:block;
 	width:120px;
 	height:90px;
 	text-indent:-9999px;
 }
 
-footer .sponsors ul li.launchpad { background:url(../img/launchpad_logo_footer.png) no-repeat center center; }
-footer .sponsors ul li.float { background:url(../img/float_logo_footer.png) no-repeat center center; }
-footer .sponsors ul li.audiosocket { background:url(../img/audiosocket_logo_footer.png) no-repeat center center; }
-footer .sponsors ul li.fourpointoh { background:url(../img/4pt0_logo_footer.png) no-repeat center center; }
+#main section.sponsors ul li.launchpad { background:url(../img/launchpad_logo_footer.png) no-repeat center center; }
+#main section.sponsors ul li.float { background:url(../img/float_logo_footer.png) no-repeat center center; }
+#main section.sponsors ul li.audiosocket { background:url(../img/audiosocket_logo_footer.png) no-repeat center center; }
+#main section.sponsors ul li.fourpointoh { background:url(../img/4pt0_logo_footer.png) no-repeat center center; }

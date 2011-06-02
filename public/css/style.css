@@ -289,8 +289,30 @@ header nav ul li a {
 }
 
 #main section.schedule .part .info .location {
-	padding-left:20px;
+	padding: 20px 0px 10px;
+	border-bottom: 1px dashed rgba(0, 0, 0, .1);
 }
+
+#main section.schedule .part .info .location .address h5 {
+	font-family:AdelleBasicBold;
+	font-size: 20px;
+	padding-bottom: 15px;
+	color: #222;
+	opacity: .5;
+}
+	
+#main section.schedule .part .info .location .address h6 {
+	font-family: AdelleBasicBold;
+	font-style: italic;
+	font-size: 16px;
+	padding-bottom: 10px;	
+}
+
+#main section.schedule .part .info .location img {
+	padding-right: 20px;
+	max-width: 160px;
+	max-height: 100px;
+	}
 
 #main section.schedule .part .info .description {
 	margin:15px 0px;

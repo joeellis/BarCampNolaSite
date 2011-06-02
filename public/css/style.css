@@ -125,18 +125,19 @@ header nav ul li a {
 	text-decoration:none;
 }
 
-#main section {
+section {
 	padding:30px 0;
 }
 
-#main section h3 {
+section h3 {
 	font-family:AdelleBasicBoldItalic;
-	font-size:32px;
+	font-size:40px;
 	text-align:center;
+	text-transform:uppercase;
 	margin-bottom:30px;
 }
 
-#main section h4 {
+section h4 {
 	font-family:"Lucida Grande";
 	font-size:16px;
 	color:#222222;
@@ -361,10 +362,27 @@ header nav ul li a {
 }
 
 #main section.schedule .part .listing  ul li .time {
-	font-family:AdelleBasicBoldItalic;
+	font-family:AdelleBasicBoldItalic; 
 }
 
-footer {
+#main section.sponsors {
 	background:#fff;
 	border-top:8px solid #EFEFEF;
 }
+
+#main section.sponsors ul li {
+	float:left;
+	padding:0px 41px;
+}
+
+#main section.sponsors h5 a {
+	display:block;
+	width:120px;
+	height:90px;
+	text-indent:-9999px;
+}
+
+#main section.sponsors ul li.launchpad { background:url(../img/launchpad_logo_footer.png) no-repeat center center; }
+#main section.sponsors ul li.float { background:url(../img/float_logo_footer.png) no-repeat center center; }
+#main section.sponsors ul li.audiosocket { background:url(../img/audiosocket_logo_footer.png) no-repeat center center; }
+#main section.sponsors ul li.fourpointoh { background:url(../img/4pt0_logo_footer.png) no-repeat center center; }

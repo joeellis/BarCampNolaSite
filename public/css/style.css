@@ -196,6 +196,10 @@ section h4 {
 	margin-bottom:20px;
 }
 
+#main section.about .divides .testimonials ul li.last {
+	margin-bottom:0px;
+}
+
 #main section.about .divides .testimonials ul li .text {
 	background:#f1d562;
 	padding:10px;
@@ -240,6 +244,22 @@ section h4 {
 	font-style:italic;
 	font-size:11px;
 }
+
+#main section.about .photos ul li {
+	float:left;
+	padding:0 9px 0px 0px;
+}
+
+#main section.about .photos ul li.last {
+	padding-right:0px;
+}
+
+#main section.about .photos ul li img {
+	border:3px solid #fff;
+	margin:10px 0px 20px 0;
+}
+
+#main section.about .photos ul li img {
 
 #main section.about .tips ul li {
 	list-style-type:none;

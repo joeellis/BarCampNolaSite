@@ -112,6 +112,11 @@ header nav {
 header nav h1 {
 	font-family:AdelleBasicBold;
 	font-size:24px;
+	text-indent: -9999px;
+	background: url(../img/bc4.png) no-repeat center center;
+	width: 206px;
+	height: 40px;
+	padding: 5px 0px;
 }
 
 header nav ul li{
@@ -445,7 +450,7 @@ section h4 {
 
 #main section.sponsors ul li {
 	float:left;
-	padding:0px 41px;
+	padding:0px 21px;
 }
 
 #main section.sponsors h5 a {
@@ -459,6 +464,7 @@ section h4 {
 #main section.sponsors ul li.float { background:url(../img/float_logo_footer.png) no-repeat center center; }
 #main section.sponsors ul li.audiosocket { background:url(../img/audiosocket_logo_footer.png) no-repeat center center; }
 #main section.sponsors ul li.fourpointoh { background:url(../img/4pt0_logo_footer.png) no-repeat center center; }
+#main section.sponsors ul li.localsource { background:url(../img/lsi_logo.png) no-repeat center center; }
 
 #main section.sponsors p {
 	text-align:center;

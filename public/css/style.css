@@ -278,28 +278,19 @@ header nav ul li a {
 }
 
 #main section.schedule .part .info .date span {
-}
-
-#main section.schedule .part .info .date span.month,
-#main section.schedule .part .info .date span.day-name {
-	font-family:AniversRegular;
-	text-transform:uppercase;
+	padding: 10px;
 }
 
 #main section.schedule .part .info .date span.month {
+	font-family:AniversRegular;
+	text-transform:uppercase;
 	font-size:25px;	
-	letter-spacing:3px;
-
+	letter-spacing:3px;	
 }
 
-#main section.schedule .part .info .date span.day {
+#main section.schedule .part .info .date span.number {
 	font-family:AdelleBasicBold;
-	font-size:40px;	
-}
-
-#main section.schedule .part .info .date span.day-name {
-	font-size:14px;	
-	letter-spacing:2px;
+	font-size:30px;	
 }
 
 #main section.schedule .part .info .location {

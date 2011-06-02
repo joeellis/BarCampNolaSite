@@ -131,7 +131,7 @@ section {
 
 section h3 {
 	font-family:AdelleBasicBoldItalic;
-	font-size:35px;
+	font-size:34px;
 	text-align:center;
 	text-transform:uppercase;
 	margin-bottom:30px;
@@ -156,7 +156,7 @@ section h4 {
 	margin-bottom: 20px;
 	font-family:ChunkFiveRegular;
 	text-align:center;
-	font-size:58px;
+	font-size:57px;
 	text-shadow: 2px 2px 2px #000;
 	-moz-box-shadow:0px 2px 2px #333;
 	-webkit-box-shadow:0px 2px 2px #333;
@@ -261,18 +261,27 @@ section h4 {
 	font-size:11px;
 }
 
+#main section.about .photos {
+	margin:20px 0;
+}
+
 #main section.about .photos ul li {
 	float:left;
-	padding:0 9px 0px 0px;
+	padding:0 5px 0px 0px;
 }
 
 #main section.about .photos ul li.last {
 	padding-right:0px;
 }
 
+#main section.about .photos ul li a {
+	width:110px;
+	height:77px;
+	display:block
+}
+
 #main section.about .photos ul li img {
 	border:3px solid #fff;
-	margin:10px 0px 20px 0;
 }
 
 
@@ -286,7 +295,7 @@ section h4 {
 	padding:15px;
 	font-family:AdelleBasicBold;
 	font-style:italic;
-	width:355px;
+	width:352px;
 	text-align:center;
 	font-size:14px;
 	line-height:22px;
@@ -410,7 +419,7 @@ section h4 {
 
 #main section.sponsors h5 a {
 	display:block;
-	width:120px;
+	width:119px;
 	height:90px;
 	text-indent:-9999px;
 }

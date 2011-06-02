@@ -267,31 +267,20 @@ section h4 {
 }
 
 #main section.schedule .part .info .date {
-	background:#fff;
-	padding:10px 15px;
-	border-radius:10px;
-	-moz-border-radius:10px;
-	-webkit-border-radius:10px;
-	-moz-box-shadow:0px 10px 5px #888;
-	-webkit-box-shadow:0px 2px 5px #888;
-	box-shadow:0px 2px 5px #888;
-	text-align: center;
+	padding-bottom:10px;
+	border-bottom: 1px dashed rgba(0, 0, 0, .25);
 }
 
-#main section.schedule .part .info .date span {
-	padding: 10px;
-}
 
-#main section.schedule .part .info .date span  {
-	font-family:AniversRegular;
-	text-transform:uppercase;
-	font-size:25px;	
-	letter-spacing:3px;	
+#main section.schedule .part .info .date p  {
+	font-family:AdelleBasicBold;
+	font-size:30px;	
+	letter-spacing:0px;	
 }
 
 #main section.schedule .part .info .location {
-	padding: 20px 0px 10px;
-	border-bottom: 1px dashed rgba(0, 0, 0, .1);
+	padding: 10px 0px;
+	border-bottom: 1px dashed rgba(0, 0, 0, .25);
 }
 
 #main section.schedule .part .info .location .address h5 {
@@ -316,7 +305,7 @@ section h4 {
 	}
 
 #main section.schedule .part .info .description {
-	margin:15px 0px;
+	margin:10px 0px;
 }
 
 #main section.schedule .part .listing {

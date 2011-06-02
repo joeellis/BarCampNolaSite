@@ -51,11 +51,11 @@ If you are new to BarCamp, check out the BarCamp basics links below:
 
 ## Schedule
 
-Friday, July 15th 7pm @ <a href="#" target="_blank">tbd</a> 
+Friday, July 15th 7pm @ tbd
 
 *   7pm - whenever : BarCampNola Icebreaker
 
-Saturday, July 16th @ <a href="http://launchpadnola.com/" target="_blank">LaunchPad</a> 
+Saturday, July 16th @ [Launchpad](http://launchpadnola.com)
 
 *   9:30 - 10:00 : Registration, Coffee and Pastries
 *   10:00 - 11:00 : Introductions, Topic Announcements
@@ -64,17 +64,17 @@ Saturday, July 16th @ <a href="http://launchpadnola.com/" target="_blank">Launch
 *   1:00 - 2:00 : Lunch, Day Two Project Announced
 *   2:00 - 5:00 : Second Round of Presentations
 
-Sunday, July 17th @<a href="#" target="_blank">tbd</a> 
+Sunday, July 17th @ TBD
 
 *   9:30 - 10:00 : Coffee
-*   10:00 - 5:00 : All Day HackDay (lunch at some point) \---|-- Schedule Right 
+*   10:00 - 5:00 : All Day HackDay (lunch at some point)
 
 > Barcamp is guaranteed to squeeze the sweetest juices out of your mind grapes.   
 > - Joe Ellis 
 
 ## Participate
 
-## <a href="https://docs.google.com/Doc?tab=edit&dr=true&id=ddrkzz8j_0c259zgf5" target="_blank">Register Now!</a>
+## [Register Now](https://docs.google.com/Doc?tab=edit&dr=true&id=ddrkzz8j_0c259zgf5")
 
 BarCampNola is a **free** event, but registering early helps us greatly in organizing the event.  
 Registering early guarantees you both **free** food for lunch and a **free** t-shirt! Yay!  
@@ -90,7 +90,7 @@ Below is the list of people who have already signed up, check back later to see 
 
 
 > If this is your first time at BarCamp, you HAVE to present. (Ok, you don't really HAVE to, but try to find someone to present with, or at least ask questions and be an interactive participant.)   
-> - <a href="http://barcamp.org/w/page/405173/TheRulesOfBarCamp" target="_blank">The 8th Rule of BarCamp</a>  \---|-- Locations 
+> - [The 8th Rule of Barcamp](http://barcamp.org/w/page/405173/TheRulesOfBarCamp)
 
 ## Locations
 
@@ -111,7 +111,8 @@ Option 3: $6 a day parking in the lot at the corner of Magazine and St. Joseph \
 
 ## Day One
 
-<a href="http://launchpadnola.com" target="_blank"><img src="http://farm3.static.flickr.com/2477/3695313716_9051fcdd5f_m.jpg" alt="LaunchPad" /></a> 
+<img src="http://farm3.static.flickr.com/2477/3695313716_9051fcdd5f_m.jpg" alt="LaunchPad" />
+
 ## Day Two
 
 ## Sponsors - tbd
@@ -140,7 +141,6 @@ As a sponsor you will be recognized in the following ways:
 
 ## BarCampNola 3
 
-<img src="img/barcampnola_logo_3.png" width="300" alt="barcampnola3" />  
 July 17th and 18th, 2010 at LaunchPad and IceHouse  
 
 
@@ -148,9 +148,9 @@ July 17th and 18th, 2010 at LaunchPad and IceHouse
 
 * * *
 
-[<img class="alignleft" title="BarCampNola" src="barcampnola.org.1_files/4860166013_a1c2de7369_m.jpg" alt="BarCampNola" width="240" height="159" />][2] So, our third year went off without a hitch. In fact, people actually complained that things went too smoothly. Lunch came on time this year, everyone actually had all those annoying adapters to connect their laptops to the projectors, all the presentations started on time and they even built a bar next door this year that opened up early just for us. We've heard your complaintsÃ– next year we will try to make things a bit more chaotic.
+So, our third year went off without a hitch. In fact, people actually complained that things went too smoothly. Lunch came on time this year, everyone actually had all those annoying adapters to connect their laptops to the projectors, all the presentations started on time and they even built a bar next door this year that opened up early just for us. We've heard your complaints next year we will try to make things a bit more chaotic.
 
-But in the meantime, we want to thank you all for joining us to make this year the successful event it was. We all know <b style="color:black;background-color:#ffff66">BarCampNola</b> is a community driven event, made possible by our <a href="http://barcampnola.org/sponsors/" target="_blank">sponsors</a>, and by YOUR participation. All our returning attendees knew what to expect but many of you came just on faith that there might be one or two of those presentations with that perfect bit of knowledge or inspiration you were looking for.
+But in the meantime, we want to thank you all for joining us to make this year the successful event it was. We all know <b style="color:black;background-color:#ffff66">BarCampNola</b> is a community driven event, made possible by our [sponsors](http://barcampnola.org/sponsors/), and by YOUR participation. All our returning attendees knew what to expect but many of you came just on faith that there might be one or two of those presentations with that perfect bit of knowledge or inspiration you were looking for.
 
 And for those of you who presented and came to share your ideas, we extend an extra special Thank You!
 
@@ -205,9 +205,7 @@ For a look behind the scenes of our Hack Day check out this brief video:
 
 ## BarCampNola ++
 
-<img src="img/barcampnola_logo_2.png" width="300" alt="barcampnola2" />  
-July 18th and 19th, 2009, at LaunchPad  
-
+July 18th and 19th, 2009, at LaunchPad
 
 ![barcampnola][3]
 

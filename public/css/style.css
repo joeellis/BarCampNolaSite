@@ -328,10 +328,19 @@ section h4 {
 
 #main section.schedule .part .listing ul li .name {
 	text-indent:30px;
+	line-height: 20px;
 }
 
 #main section.schedule .part .listing ul li .tag {
 	background:url(../img/tag_icon.png) no-repeat;
+}
+
+#main section.schedule .part .listing ul li .wrench {
+	background:url(../img/wrench_icon.png) no-repeat;
+}
+
+#main section.schedule .part .listing ul li .martini {
+	background:url(../img/martini_icon.png) no-repeat;
 }
 
 #main section.schedule .part .listing ul li .mike {

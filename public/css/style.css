@@ -245,18 +245,27 @@ section h4 {
 	font-size:11px;
 }
 
+#main section.about .photos {
+	margin:15px 0;
+}
+
 #main section.about .photos ul li {
 	float:left;
-	padding:0 9px 0px 0px;
+	padding:0 5px 0px 0px;
 }
 
 #main section.about .photos ul li.last {
 	padding-right:0px;
 }
 
+#main section.about .photos ul li a {
+	width:110px;
+	height:77px;
+	display:block
+}
+
 #main section.about .photos ul li img {
 	border:3px solid #fff;
-	margin:10px 0px 20px 0;
 }
 
 

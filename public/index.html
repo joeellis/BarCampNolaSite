@@ -24,19 +24,22 @@
 <body>
 
 	<div id="wrapper">
-		<header>
+		<header class="clear">
 			<nav class="container clear">
 				<h1 class="left">Barcamp Nola</h1>
 
 				<ul class="right">
-					<li><a href="#">Barcamp4</a></li>
-					<li><a href="#">Schedule</a></li>
-					<li><a href="#">What's Barcamp?</a></li>
+					<li><a href="#intro">Start</a></li>
+					<li><a href="#about">What's Barcamp???</a></li>
+					<li><a href="#schedule">Schedule</a></li>
 					<li><a href="#">Sponsors</a></li>
-					<li><a href="#">Register</a></li>
+					<li><a href="http://barcampnola.eventbrite.com/">Register</a></li>
 				</ul>
 			</nav>
 		</header>
+		
+		<a name="intro"></a>
+		
 		<div id="main" role="main">
 			<section class="intro">
 				<div class="container">
@@ -46,16 +49,19 @@
 					</p>
 					<div class="buttons clear">
 						<div class="button green left">
-
+							<a href="http://barcampnola.eventbrite.com/"><img src="img/go_button.png" /></a>
 						</div>
 						<div class="button red right">
-
+							<a href="http://www.youtube.com/watch?v=Vw4KVoEVcr0"><img src="img/rawr_button.png" /></a>
 						</div>
 					</div>
 				</section>
+				
+				<a name="about"></a>
+				
 				<section class="about">
 					<div class="container">
-						<h3>What is happening???  WHY AM I SO EXCITED??!</h3>
+						<h3>ZOMG ZOMG WHY AM I SO EXCITED??!</h3>
 						<div class="divides clear">
 							<div class="left description">
 								<h4>So What Is Barcamp Nola?</h4>
@@ -69,7 +75,7 @@
 								</div>
 							</div>
 							<div class="right testimonials">
-								<h4>ZOMG PEOPLE SAYING THINGS!!!</h4>
+								<h4>PEOPLE SAYING THINGS!!!</h4>
 								<ul>
 									<li>
 										<div class="text">
@@ -122,6 +128,9 @@
 						</div>
 					</div>
 				</section>
+				
+				<a name="schedule"></a>
+				
 				<section class="schedule">
 					<div class="container">
 						<h3>The Schedule</h3>
@@ -180,7 +189,7 @@
 										<span class="day-name">Sunday</span>
 									</div>
 									<div class="location left">
-										<img src="img/launchpad_logo.png" />
+										<img src="img/4pt0_logo.png" />
 										<address>
 											643 Magazine Street<br />
 											New Orleans, LA<br />
@@ -222,8 +231,7 @@
 		</div> <!-- eo #container -->
 
 
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
-		<script>window.jQuery || document.write("<script src='js/libs/jquery-1.5.1.min.js'>\x3C/script>")</script>
+		<script src='js/libs/jquery-1.5.1.min.js'></script>
 
 
 		<!-- scripts concatenated and minified via ant build script-->
@@ -237,14 +245,5 @@
 		<script>DD_belatedPNG.fix("img, .png_bg");</script>
 		<![endif]-->
 
-
-
-		<script>
-		var _gaq=[["_setAccount","UA-XXXXX-X"],["_trackPageview"]]; // Change UA-XXXXX-X to be your site's ID 
-		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
-			g.src=("https:"==location.protocol?"//ssl":"//www")+".google-analytics.com/ga.js";
-			s.parentNode.insertBefore(g,s)}(document,"script"));
-			</script>
-
-		</body>
-		</html>
+	</body>
+</html>

@@ -100,7 +100,7 @@ var zoomTime       = 1;    // Milliseconds between frames of zoom animation
 var zoomSteps      = 10;   // Number of zoom animation frames
 var includeFade    = 1;    // Set to 1 to fade the image in / out as it zooms
 var minBorder      = 90;   // Amount of padding between large, scaled down images, and the window edges
-var shadowSettings = '0px 1px 999px rgba(0, 0, 0, '; // Blur, radius, color of shadow for compatible browsers
+var shadowSettings = '0px 5px 25px rgba(0, 0, 0, '; // Blur, radius, color of shadow for compatible browsers
 
 var zoomImagesURI   = 'img/zoom/'; // Location of the zoom and shadow images
 

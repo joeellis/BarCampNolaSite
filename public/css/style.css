@@ -279,7 +279,7 @@ section h4 {
 }
 
 #main section.about .photos {
-	margin:20px 0;
+	margin:28px 0;
 }
 
 #main section.about .photos ul li {
@@ -321,6 +321,10 @@ section h4 {
 
 #main section.schedule .part {
 	margin-bottom:60px;
+}
+
+#main section.schedule .last {
+	margin-bottom:0px;
 }
 
 #main section.schedule .part .info {

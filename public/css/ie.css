@@ -1,3 +1,8 @@
 header {
 	border-bottom: 3px solid #888;
 }
+
+#main section.intro h2,
+#main section.intro h4 {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=hIEfix.png,sizingMethod=crop);zoom:1;
+}

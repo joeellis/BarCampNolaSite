@@ -105,25 +105,50 @@ header {
 }
 
 header nav {
-	height:50px;
-	line-height:50px;
+	height:56px;
+	line-height:56px;
 }
 
 header nav h1 {
 	font-family:AdelleBasicBold;
 	font-size:24px;
 	text-indent: -9999px;
-	background: url(../img/bc4.png) no-repeat center center;
-	width: 206px;
-	height: 40px;
-	padding: 5px 0px;
+	background: url(../img/bc4.png) no-repeat left center;
+	width: 230px;
+	height: 51px;
+	padding: 5px 0px 0px 0px;
 }
 
-header nav ul li{
+header nav ul.icons li {
+/*	line-height:71px;*/
+	float:left;
+	padding-right:10px;
+	line-height:56px;
+	height:56px;
+}
+
+header nav ul.icons li a {
+/*	display:block;*/
+/*	height:20px;
+	width:20px;*/
+}
+
+header nav ul.icons li a img {
+	vertical-align:middle;
+}
+
+header nav ul.links li {
 	font-family:AniversRegular;
 	text-transform:uppercase;
 	float:left;
+	line-height:62px;
+	height:56px;
 	padding-left:20px;
+}
+
+header nav ul.links li.highlight a {
+	color:#cc3f33;
+	font-weight:bold;
 }
 
 header nav ul li a {

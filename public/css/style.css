@@ -486,7 +486,7 @@ section h4 {
 
 #main section.sponsors ul li {
 	float:left;
-	padding:0px 21px;
+	padding:0px 7px;
 }
 
 #main section.sponsors h5 a {
@@ -501,6 +501,8 @@ section h4 {
 #main section.sponsors ul li.audiosocket { background:url(../img/audiosocket_logo_footer.png) no-repeat center center; }
 #main section.sponsors ul li.fourpointoh { background:url(../img/4pt0_logo_footer.png) no-repeat center center; }
 #main section.sponsors ul li.localsource { background:url(../img/lsi_logo.png) no-repeat center center; }
+#main section.sponsors ul li.flatstack { background:url(../img/flatstack_logo_footer.png) no-repeat center center; }
+
 
 #main section.sponsors p {
 	text-align:center;

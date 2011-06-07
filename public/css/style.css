@@ -105,7 +105,7 @@ header {
 }
 
 header nav {
-	height:56px;
+	height:65px;
 	line-height:56px;
 }
 
@@ -115,7 +115,7 @@ header nav h1 {
 	text-indent: -9999px;
 	background: url(../img/bc4.png) no-repeat left center;
 	width: 230px;
-	height: 51px;
+	height: 55px;
 	padding: 5px 0px 0px 0px;
 }
 

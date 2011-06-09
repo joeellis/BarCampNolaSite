@@ -105,8 +105,8 @@ header {
 }
 
 header nav {
-	height:50px;
-	line-height:50px;
+	height:70px;
+	line-height:70px;
 }
 
 header nav h1 {
@@ -465,6 +465,7 @@ section h4 {
 #main section.sponsors ul li.audiosocket { background:url(../img/audiosocket_logo_footer.png) no-repeat center center; }
 #main section.sponsors ul li.fourpointoh { background:url(../img/4pt0_logo_footer.png) no-repeat center center; }
 #main section.sponsors ul li.localsource { background:url(../img/lsi_logo.png) no-repeat center center; }
+#main section.sponsors ul li.nolatech { background:url(../img/NOLA-Tech-Logo.png) no-repeat center center; }
 
 #main section.sponsors p {
 	text-align:center;

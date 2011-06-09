@@ -105,24 +105,20 @@ header {
 }
 
 header nav {
-<<<<<<< HEAD
-	height:65px;
-	line-height:56px;
-=======
+/*	height:65px;
+	line-height:56px;*/
 	height:70px;
 	line-height:70px;
->>>>>>> 90ac10986208633857e10760bc4e1910d7298ced
 }
 
 header nav h1 {
 	font-family:AdelleBasicBold;
 	font-size:24px;
 	text-indent: -9999px;
-<<<<<<< HEAD
-	background: url(../img/bc4.png) no-repeat left center;
-	width: 230px;
-	height: 55px;
-	padding: 5px 0px 0px 0px;
+	background: url(../img/bc4_60px.png) no-repeat center center;
+	width: 305px;
+	height: 60px;
+	padding: 5px 0px;
 }
 
 header nav ul.icons li {
@@ -131,12 +127,6 @@ header nav ul.icons li {
 	padding-right:10px;
 	line-height:56px;
 	height:56px;
-=======
-	background: url(../img/bc4_60px.png) no-repeat center center;
-	width: 157px;
-	height: 60px;
-	padding: 5px 0px;
->>>>>>> 90ac10986208633857e10760bc4e1910d7298ced
 }
 
 header nav ul.icons li a {
@@ -513,12 +503,8 @@ section h4 {
 #main section.sponsors ul li.audiosocket { background:url(../img/audiosocket_logo_footer.png) no-repeat center center; }
 #main section.sponsors ul li.fourpointoh { background:url(../img/4pt0_logo_footer.png) no-repeat center center; }
 #main section.sponsors ul li.localsource { background:url(../img/lsi_logo.png) no-repeat center center; }
-<<<<<<< HEAD
 #main section.sponsors ul li.flatstack { background:url(../img/flatstack_logo_footer.png) no-repeat center center; }
-
-=======
 #main section.sponsors ul li.nolatech { background:url(../img/NOLA-Tech-Logo.png) no-repeat center center; }
->>>>>>> 90ac10986208633857e10760bc4e1910d7298ced
 
 #main section.sponsors p {
 	text-align:center;

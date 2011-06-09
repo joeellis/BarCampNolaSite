@@ -116,9 +116,10 @@ header nav h1 {
 	font-size:24px;
 	text-indent: -9999px;
 	background: url(../img/bc4_60px.png) no-repeat center center;
-	width: 305px;
+	width: 157px;
 	height: 60px;
 	padding: 5px 0px;
+	margin-right: 100px;
 }
 
 header nav ul.icons li {

@@ -507,6 +507,10 @@ section h4 {
 #main section.sponsors ul li.flatstack { background:url(../img/flatstack_logo_footer.png) no-repeat center center; }
 #main section.sponsors ul li.nolatech { background:url(../img/NOLA-Tech-Logo.png) no-repeat center center; }
 #main section.sponsors ul li.iseatz { background:url(../img/iseatz_logo_footer.png) no-repeat center center; }
+#main section.sponsors ul li.squid { background:url(../img/turbosquid_logo_footer.png) no-repeat center center; }
+#main section.sponsors ul li.bctour { background:url(../img/bctour_logo_footer.png) no-repeat center center; }
+#main section.sponsors ul li.canary { background:url(../img/canary_logo_footer.png) no-repeat center center; }
+#main section.sponsors ul li.iv { background:url(../img/iv_logo_footer.png) no-repeat center center; }
 
 #main section.sponsors p {
 	text-align:center;
